@@ -1,0 +1,41 @@
+
+body{
+   background-image: url("https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8bmF0dXJhbHxlbnwwfHx8fDE2ODUwNzI0NzR8MA&ixlib=rb-4.0.3&q=85"); 
+   background-size:cover;
+   height: 100vh;
+   width:100vw ;
+}
+.head1{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration:none;
+    border:dotted;
+}
+.head5{
+    border-width: 9px;
+}
+.head6{
+    border-color: green;
+}
+.head7{
+    color: red;
+}
+.head8{
+    background-color: yellow;
+}
+.head9{
+    font-size: 70px;
+}
+.head0{
+border-radius: 25px;
+background-color: red;
+}
+.head11{
+    text-shadow: 1px 1px 4px red;
+}
+.head12{ 
+    width: 50%;
+}
+.head13{
+
+}
